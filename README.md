@@ -8,6 +8,14 @@ Recurrent Neural Network, and Bidirectional Recurrent Neural Network. The locali
 
 A link to the dataset would be uploaded soon.
 
+## File Usage
+
+* cfg.ipynb : define audio preprocessing class
+* eda.ipynb : visualize input data, clean or resample audio files if necessary
+* model.ipynb : train neural network
+* predict.ipynb : test the neural network
+
+
 ## Note
 
 This project is heavily inspired by Seth Adam's tutorial on instrument classification. 
