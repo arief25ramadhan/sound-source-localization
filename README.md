@@ -1,6 +1,6 @@
 # Sound-Source Localization
 
-### Project Aim
+## Project Aim
 
 This project aims to locate sound direction in both azimuth (left-right) and elevation (top-bottom) angle.
 The author used four neural network architectures in performing the localization: Multi Layered Perceptron, Convolutional Neural Network, 
@@ -8,7 +8,7 @@ Recurrent Neural Network, and Bidirectional Recurrent Neural Network. The locali
 
 A link to the dataset would be uploaded soon.
 
-### Note
+## Note
 
 This project is heavily inspired by Seth Adam's tutorial on instrument classification. 
 The links to Seth's tutorial and project are:
