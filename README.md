@@ -6,6 +6,15 @@ This project aims to locate sound direction in both azimuth (left-right) and ele
 The author used four neural network architectures in performing the localization: Multi Layered Perceptron, Convolutional Neural Network, 
 Recurrent Neural Network, and Bidirectional Recurrent Neural Network. The localization is formularized as classification of 15 different class/position.
 
+## Robot
+
+The robot used in this experiment is displayed by figure below. A microphone is mounted in each of the robot's two ears to mimic human hearing system.
+
+<p align="center">
+  <img src="https://i.ibb.co/Fnb4hDZ/20190621-161725.jpg" width="350" title="hover text">
+</p>
+
+
 ## Dataset
 
 The project sound dataset can downloaded from here:
